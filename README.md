@@ -4,7 +4,9 @@
   👨‍💻 Jyotiram Nayak — Fullstack Developer | Software Engineer 🚀
 </h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+%2B+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Modern+Web+Backend+with+ASP.NET+Core+%F0%9F%9A%80;Crafting+Clean+and+Scalable+Code%F0%9F%92%A1;Building+User+First+Applications+%F0%9F%8C%90" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+%2B+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Modern+Web+Backend+with+ASP.NET+Core+%F0%9F%9A%80;Crafting+Clean+and+Scalable+Code%F0%9F%92%A1;Building+User+First+Applications+%F0%9F%8C%90" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Modern+Web+Backend+with+ASP.NET+Core+%F0%9F%9A%80;React+%2B+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Clean+and+Scalable+Code%F0%9F%92%A1;Building+User+First+Applications+%F0%9F%8C%90" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
@@ -101,7 +103,8 @@ Git, GitHub, Postman, Visual Studio, VSCode
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyotiram-Nayak&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyotiram-Nayak&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" />  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyotiram-Nayak&show_icons=true&theme=tokyonight&rank_icon=github" /><br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiram-Nayak&theme=tokyonight" />
 </p>
 
